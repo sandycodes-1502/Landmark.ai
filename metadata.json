@@ -1,0 +1,8 @@
+{
+  "name": "Landmark Lens AR",
+  "description": "Snap a photo of any landmark to instantly hear its history and hidden stories. Powered by Gemini vision, search, and speech.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
